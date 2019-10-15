@@ -1,0 +1,93 @@
+﻿body
+{
+    font-family:Arial;
+    background-color: #f2f2f2;
+}
+#header {
+    background-color: #f2f2f2;
+    position: fixed;
+    width:100%;
+    margin-top:-8px;
+}
+#nav-bar {
+    margin-top:10px;
+    margin-right: 40px;
+    float: right;
+}
+.nav-link {
+    text-decoration: none;
+    margin-right:80px;
+    color:black;
+}
+#form {
+    text-align: center;
+    margin-top:20px;
+}
+#email {
+    width: 200px;
+    height:20px;
+}
+#submit {
+    background-color: #ffb31a;
+    border: 1px solid #ffb31a;
+}
+#features {
+    margin: 60px 200px 10px 200px;
+}
+.icon {
+    font-size:48px;
+    color:#ff9933;
+}
+.data {
+    margin: -70px 0px 20px 100px;
+}
+#pricing {
+    margin-left: 120px;
+}
+#col1 {
+    margin: 10px;
+    width: 300px;
+    text-align:center;
+    border:1px solid black;
+}
+.title {
+    background-color: #d9d9d9;
+    padding:10px;
+}
+.col-button {
+    background-color: #ffb31a;
+    border: 1px solid #ffb31a;
+    height:30px;
+}
+#col2 {
+    margin: -315px 10px 10px 330px;
+    width: 300px;
+    text-align:center;
+    border:1px solid black;
+}
+#col3 {
+    margin: -315px 10px 10px 650px;
+    width: 300px;
+    text-align:center;
+    border:1px solid black;
+}
+#footer {
+    background-color: #d9d9d9;
+    margin-left:120px;
+    width:950px;
+    height:60px;
+    padding:10px;
+}
+
+#foot {
+    float: right;
+}
+.f_nav {
+    margin-right: 10px;
+    text-decoration:none;
+    color:black;
+}
+#how {
+   text-align:center;
+   margin-bottom:50px;
+}
